@@ -3,10 +3,17 @@ AI 기반 글쓰기 분석 · 힌트 · 피드백 · 주제 추천까지
 스스로 성장하는 글쓰기 루틴을 완성하는 올인원 앱입니다.
 
 Expo Go 앱으로 QR 찍고 실행 가능.
+![photo_2025-11-20_16-22-53](https://github.com/user-attachments/assets/1b9054fa-dc8f-4030-8b67-0ae2b4b6b040)
+![photo_2025-11-20_16-23-00](https://github.com/user-attachments/assets/e6dd65c5-630c-4994-b2ec-7a33ff4da324)
+![photo_2025-11-20_16-23-07](https://github.com/user-attachments/assets/efff1108-0040-4ee6-94c6-d39f8588ff57)
+![photo_2025-11-20_16-23-11](https://github.com/user-attachments/assets/fd347db2-efab-4d53-8390-bc990ae91eb9)
+![photo_2025-11-20_16-22-34](https://github.com/user-attachments/assets/e658d2e0-66b2-4442-a8e7-48611ab9e19e)
+![photo_2025-11-20_16-22-41](https://github.com/user-attachments/assets/41e2a7fb-b8d0-4d5a-8a5f-5fdf6a71492f)
+![photo_2025-11-20_16-22-47](https://github.com/user-attachments/assets/69d867bc-4b16-40ae-af93-44c2e28d95da)
 
 
 ## Get started
-![Darling in the FranXX #GGHimSelf #GG #Anime](https://github.com/user-attachments/assets/8f5d79f5-0f61-4a7d-a550-72f79723f94e)
+
 
 1. Install dependencies
 
