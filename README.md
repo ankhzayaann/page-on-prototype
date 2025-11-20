@@ -6,6 +6,7 @@ Expo Go 앱으로 QR 찍고 실행 가능.
 
 
 ## Get started
+![Darling in the FranXX #GGHimSelf #GG #Anime](https://github.com/user-attachments/assets/8f5d79f5-0f61-4a7d-a550-72f79723f94e)
 
 1. Install dependencies
 
