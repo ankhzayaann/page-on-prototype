@@ -11,7 +11,7 @@ Expo Go 앱으로 QR 찍고 실행 가능.
 ![photo_2025-11-20_16-22-41](https://github.com/user-attachments/assets/41e2a7fb-b8d0-4d5a-8a5f-5fdf6a71492f)
 ![photo_2025-11-20_16-22-47](https://github.com/user-attachments/assets/69d867bc-4b16-40ae-af93-44c2e28d95da)
 
-<img src="[URL1](https://github.com/user-attachments/assets/1b9054fa-dc8f-4030-8b67-0ae2b4b6b040)" width="250" />
+<img src="[URL1](https://github.com/user-attachments/assets/1b9054fa-dc8f-4030-8b67-0ae2b4b6b040)" width="50" />
 <img src="URL2" width="250" />
 <img src="URL3" width="250" />
 
