@@ -4,48 +4,6 @@ AI 기반 글쓰기 분석 · 힌트 · 피드백 · 주제 추천까지
 
 Expo Go 앱으로 QR 찍고 실행 가능.
 
-🖥️ Tech Stack
-App Development:
--React Native (Expo)
--TypeScript
--Expo Router
--React Native UI Components
-
-AI & Backend:
--Google Gemini API (1.5-flash-preview-09-2025)
--Custom prompt engineering
--Topic suggestion model
--Sentence-level hint extraction
-
-Build Tools:
--Expo Go
--VS Code
--Node.js / npm
--Git & GitHub
-
-myApp/
-│
-├── app/
-│   ├── (tabs)/
-│   │     └── index.tsx        # 메인 로직, 모든 화면 포함
-│   ├── _layout.tsx
-│   └── other screens...
-│
-├── scripts/
-│   ├── gemini.ts              # Gemini API 연동 + prompt 시스템
-│   └── reset-project.js
-│
-├── assets/
-│   └── images/
-│        ├── assetspage_on_icon.png
-│        └── assetspage_on_text.png
-│
-├── .env                       # EXPO_PUBLIC_* 환경변수 저장
-├── package.json
-└── tsconfig.json
-
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
