@@ -4,27 +4,15 @@ AI 기반 글쓰기 분석 · 힌트 · 피드백 · 주제 추천까지
 
 Expo Go 앱으로 QR 찍고 실행 가능.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cf414082-ddb6-4212-96da-f22cec326879" width="320" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8cc784e9-d343-4286-a87c-18c1eef3edff" width="320" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8c4678f3-0063-4b45-a084-106908122c65" width="320" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3efa865a-5a83-4fd6-b68e-00b2d15db665" width="320" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8c565a74-bd37-4ba9-bf5f-71c4c9a748f8" width="320" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aaab004a-dcfb-48cd-9e6a-a1fee071b082" width="320" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ec9b0aa4-0cbf-4cca-95fd-746e162385cf" width="320" />
-</p>
+<div style="display: flex; gap: 16px; flex-wrap: nowrap;">
+  <img src="https://github.com/user-attachments/assets/cf414082-ddb6-4212-96da-f22cec326879" width="230" />
+  <img src="https://github.com/user-attachments/assets/8cc784e9-d343-4286-a87c-18c1eef3edff" width="230" />
+  <img src="https://github.com/user-attachments/assets/8c4678f3-0063-4b45-a084-106908122c65" width="230" />
+  <img src="https://github.com/user-attachments/assets/3efa865a-5a83-4fd6-b68e-00b2d15db665" width="230" />
+  <img src="https://github.com/user-attachments/assets/8c565a74-bd37-4ba9-bf5f-71c4c9a748f8" width="230" />
+  <img src="https://github.com/user-attachments/assets/aaab004a-dcfb-48cd-9e6a-a1fee071b082" width="230" />
+  <img src="https://github.com/user-attachments/assets/ec9b0aa4-0cbf-4cca-95fd-746e162385cf" width="230" />
+</div>
 
 
 ## Get started
