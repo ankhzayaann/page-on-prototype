@@ -6,7 +6,7 @@ export interface FeedbackOptions {
   goalChars?: string;
 }
 
-const GEMINI_API_KEY = "...";
+const GEMINI_API_KEY = process.env.EXPO_PUBLIC_GEMINI_API_KEY;
 
 const GEMINI_MODEL = "gemini-flash-latest";
 
